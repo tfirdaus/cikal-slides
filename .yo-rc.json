@@ -1,0 +1,8 @@
+{
+  "generator-reveal": {
+    "presentationTitle": " Pengenalan Website Development",
+    "packageVersion": "0.0.1",
+    "useSass": true,
+    "deployToGithubPages": false
+  }
+}

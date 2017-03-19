@@ -1,0 +1,63 @@
+[
+    "index.md",
+    [
+        "website.md",
+        "website-type.md",
+        "website-type-weblog.md",
+        "website-type-news.md",
+        "website-type-ecommerce.md",
+        "website-type-social-media.md",
+        "website-type-streaming.md",
+        "website-type-webapp.md",
+        {
+            "filename": "website-slides.md",
+            "attr": {
+                "data-background": "#00a98f"
+            }
+        },
+        "website-slides-how.md",
+        {
+            "filename": "website-works.md",
+            "attr": {
+                "data-background": "#eaeaea"
+            }
+        },
+        {
+            "filename": "website-works-server.md",
+            "attr": {
+                "data-background": "#eaeaea"
+            }
+        },
+        {
+            "filename": "website-works-document.md",
+            "attr": {
+                "data-background": "#eaeaea"
+            }
+        },
+        {
+            "filename": "website-works-access.md",
+            "attr": {
+                "data-background": "#eaeaea"
+            }
+        },
+        {
+            "filename": "website-works-access-browsers.md",
+            "attr": {
+                "data-background": "#eaeaea"
+            }
+        },
+        {
+            "filename": "website-works-access-ip-domain.md",
+            "attr": {
+                "data-background": "#eaeaea"
+            }
+        },
+        {
+            "filename": "website-qa.md",
+            "attr": {
+                "data-background": "#6a67ce"
+            }
+        }
+    ],
+    "website-thanks.md"
+]
